@@ -1,0 +1,130 @@
+IP                   : 118.99.76.182
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Margoyoso, Indonesia, Asia
+GeoLocation(lat, lon): -6.6134916, 111.0579632
+Currency             : Indonesian Rupiah
+
+IP                   : 118.99.76.182
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Margoyoso, Indonesia, Asia
+GeoLocation(lat, lon): -6.6134916, 111.0579632
+Currency             : Indonesian Rupiah
+
+IP                   : 45.121.219.4
+IP Type              : IPv4
+User OS              : Windows 7
+User Agent           : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+Version              : 6.1;
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+
+IP                   : 118.99.76.182
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Margoyoso, Indonesia, Asia
+GeoLocation(lat, lon): -6.6134916, 111.0579632
+Currency             : Indonesian Rupiah
+
+IP                   : 118.99.76.182
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Margoyoso, Indonesia, Asia
+GeoLocation(lat, lon): -6.6134916, 111.0579632
+Currency             : Indonesian Rupiah
+
+IP                   : 118.99.76.182
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Margoyoso, Indonesia, Asia
+GeoLocation(lat, lon): -6.6134916, 111.0579632
+Currency             : Indonesian Rupiah
+
+IP                   : 103.94.168.86
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42
+Version              : 10.0;
+Browser              : Chrome
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+
+IP                   : 103.94.168.86
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42
+Version              : 10.0;
+Browser              : Chrome
+Location             : Surabaya, Indonesia, Asia
+GeoLocation(lat, lon): -7.2574719, 112.7520883
+Currency             : Indonesian Rupiah
+
+IP                   : 118.99.76.182
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Margoyoso, Indonesia, Asia
+GeoLocation(lat, lon): -6.6134916, 111.0579632
+Currency             : Indonesian Rupiah
+
+IP                   : 118.99.76.182
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Margoyoso, Indonesia, Asia
+GeoLocation(lat, lon): -6.6134916, 111.0579632
+Currency             : Indonesian Rupiah
+
+IP                   : 118.99.76.182
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Margoyoso, Indonesia, Asia
+GeoLocation(lat, lon): -6.6134916, 111.0579632
+Currency             : Indonesian Rupiah
+
+IP                   : 118.99.76.182
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Margoyoso, Indonesia, Asia
+GeoLocation(lat, lon): -6.6134916, 111.0579632
+Currency             : Indonesian Rupiah
+
+IP                   : 118.99.76.182
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Margoyoso, Indonesia, Asia
+GeoLocation(lat, lon): -6.6134916, 111.0579632
+Currency             : Indonesian Rupiah
+
